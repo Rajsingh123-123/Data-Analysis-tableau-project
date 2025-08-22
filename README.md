@@ -18,4 +18,5 @@ Total Profit: 52.8M
 Revenue by Degree Type: Undergraduate programs generated the highest revenue (~39M).
 
 Profit by Degree Type: Undergraduate courses led profit generation (14.48M), followed by Diplomas and Certificates.
-[[https://public.tableau.com/views/Book1_17525699323830/educationdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)]([url](url))
+[
+https://public.tableau.com/views/Book1_17525699323830/educationdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link[](url)](url)
